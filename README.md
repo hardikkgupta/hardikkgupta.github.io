@@ -1,5 +1,5 @@
 # ReadMe
 
-This is the source code to Hardik Gupta's academic website: https://hardikguptaa.github.io/ 
+Thank you for visiting the repository for Hardik Gupta's academic website. This repository contains the source code and assets for the website, which can be accessed at https://hardikguptaa.github.io/.
 
-All thanks to the template and source code from Jon Barron's public academic website: https://jonbarron.info/
+The website was developed with inspiration from Jon Barron's personal website, available at https://jonbarron.info/.
